@@ -1,0 +1,1 @@
+Imagine you are in Europe, you have some money and you want to buy a specific drink for all of your money + you can get some refund by returning the packages. This tiny app makes it easy to calculate how many drinks you can buy and how much money you will left to buy anyting cheaper.
